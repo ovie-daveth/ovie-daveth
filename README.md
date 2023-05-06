@@ -14,8 +14,7 @@ I have a good experience in both frontend and backend proramming. For the time b
 
 ## Hire me
 
-Check out my portfolio to consider me for an hire
-https://my-portfolio-pda3.vercel.app/
+Check out my [portfolio](https://my-portfolio-pda3.vercel.app/) to consider me for an hire
 
 ## My Tech Stack
 
@@ -53,9 +52,16 @@ You can be the first...
 
 ## Sometimes I write technical articles & tutorials on these platform
 
-Personal Blog | Dev.to | Hashnode | Medium | Telegram
+***Personal Blog | Dev.to | Hashnode | Medium | Telegram (Coming Soon)***
 
-Wanna invite me to talk/conference, Please email at oviedavid77@gmail.com
+***Wanna invite me to talk/conference, Please email at [my email](oviedavid77@gmail.com)***
+
+
+<picture width="50px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 
 
