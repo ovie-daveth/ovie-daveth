@@ -23,11 +23,10 @@ Python | JavaScript | HTML | CSS | JSON |
 Jquey
 
 ### Web Frameworks
-React | Next | REST | Nodejs | Express |
-Django | AWS | Tailwind | 
+React | Next | Angular | Nodejs | Express | C# DotNet | Azure devops | Tailwind |
 
 ### Databases & Storange
-Sqlite | Mysql | MongoDB | Firestore |
+Mysql | MongoDB | Firestore 
 
 ### Cloud & Hosting
 AWS | Google Cloud | Digital Ocean | Heroku | Vercel
