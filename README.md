@@ -6,7 +6,7 @@ I'm a passionate software developer with a relentless drive to build impactful s
 
 ### 🎓 Lifelong Learner | Self-Taught Developer
 
-I began my coding adventure in 2019, and since then, I've been sharpening my skills one project at a time. Starting with Python, I've since embraced full-stack development, and my expertise has grown to include multiple languages and frameworks. I strongly believe in continuous learning—after all, the journey in tech never ends! And yes, I'm also a believer in Christ, and my faith grounds me as I pursue my goals.
+I began my coding adventure in 2021, and since then, I've been sharpening my skills one project at a time. Starting with Python, I've since embraced full-stack development, and my expertise has grown to include multiple languages and frameworks. I strongly believe in continuous learning—after all, the journey in tech never ends! And yes, I'm also a believer in Christ, and my faith grounds me as I pursue my goals.
 
 ### 🔧 What I Do
 
