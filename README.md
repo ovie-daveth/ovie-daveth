@@ -1,69 +1,77 @@
+## 👋 Hi, I'm Omokefe Ovie!
 
-Hi there
-## Who am I
+### 🚀 Who am I?
 
-I'm Omokefe Ovie, A Tech Nerd, Ever since I came across this world of programming I never looked back I engaged myself in building projects as a way to solidify my understanding. All I do right now is building projects and getting a firm grasp on my Niche. I focus my energy on projects that affects us in the real world and try to stay on a project till perfection.
+I'm a passionate software developer with a relentless drive to build impactful solutions. Since diving into the world of programming, I've never looked back. Every line of code I write is part of a journey to deepen my understanding and perfect my craft. My focus is on building projects that solve real-world problems and staying dedicated until the solution is just right.
 
-## Graduate from the never ending 'SelfTaught programming' University
+### 🎓 Lifelong Learner | Self-Taught Developer
 
-Perhaps this has been the happiest choice of my life aside knowing Jesus (yup, I am a BELIEVER). Began my coding journey in 2019 and from one youtube video to another I have strive to get better daily in what I do. Began with python, but now I major on JavaScript, in all its might.
+I began my coding adventure in 2019, and since then, I've been sharpening my skills one project at a time. Starting with Python, I've since embraced full-stack development, and my expertise has grown to include multiple languages and frameworks. I strongly believe in continuous learning—after all, the journey in tech never ends! And yes, I'm also a believer in Christ, and my faith grounds me as I pursue my goals.
 
-## What I'm good at
+### 🔧 What I Do
 
-I have a good experience in both frontend and backend proramming. For the time being I am trying to unite my python skill to my javascript to become a better programmer and web developer. I build both frontend and backend codes for web and mobile development. ReactJS is my ciore strength, though I dabble into NextJs, but I stick with React most often. NodeJs for backend but dabble with python (Django) once in a while
+I'm skilled in both frontend and backend development, specializing in building scalable, performant web and mobile applications. My frontend expertise lies in **React** and **Next.js**, with **Node.js** handling the backend (though I still dabble with Python and Django). Now, I'm expanding my horizons with **Rust** and **C#** to further strengthen my systems programming and backend capabilities.
 
-## Hire me
+### 💻 Current Tech Stack
 
-Check out my [portfolio](https://my-portfolio-pda3.vercel.app/) to consider me for an hire
+#### 🖥️ Languages:
+- JavaScript (React, Node.js) 
+- Python 
+- Rust 
+- C#
+- HTML | CSS | JSON 
 
-## My Tech Stack
+#### 📚 Frameworks & Libraries:
+- React | Next.js | Angular 
+- Node.js | Express 
+- .NET (C#) 
+- Django
 
-### Language
-Python | JavaScript | HTML | CSS | JSON |
-Jquey
+#### 🗃️ Databases & Storage:
+- MySQL | MongoDB | Firestore 
 
-### Web Frameworks
-React | Next | Angular | Nodejs | Express | C# DotNet | Azure devops | Tailwind |
+#### ☁️ Cloud & Hosting:
+- AWS | Google Cloud | Digital Ocean | Heroku | Vercel | Azure DevOps 
 
-### Databases & Storange
-Mysql | MongoDB | Firestore 
+#### 🔍 API Testing:
+- Postman | Insomnia
 
-### Cloud & Hosting
-AWS | Google Cloud | Digital Ocean | Heroku | Vercel
+#### 🔧 Version Control:
+- Git | GitHub
 
-### API Testing
-Insomia | Postman
+#### 🛠️ Tools & Editors:
+- VSCode | Bash | Rust Toolchain | .NET IDEs
 
-### Shells
-Bash |
+#### 🎨 Design Systems:
+- Tailwind CSS
 
-### Version Control
-Git | Github
+### 💼 Hire Me
 
-### Code Editor(IDE) + Environment
-VSCode | Water + Music + Coffee + Snacks
+Looking for someone to turn ideas into well-architected, functional, and user-friendly applications? I'd love to discuss how I can help you with your next project. Check out my [portfolio](https://my-portfolio-pda3.vercel.app/) to get a glimpse of my work.
 
-## Here couple of open source projects I maintain
-...
+### ✍️ Writing & Tutorials
 
-## These are some of companies with my fingerprints
-You can be the first...
+I occasionally share technical articles, tutorials, and insights on platforms like **Dev.to**, **Hashnode**, **Medium**, and my **personal blog**. Stay tuned for updates on my upcoming **Telegram** channel.
 
-## Sometimes I write technical articles & tutorials on these platform
+### 🌱 Open Source Contributions
 
-***Personal Blog | Dev.to | Hashnode | Medium | Telegram (Coming Soon)***
+I actively contribute to the open-source community, maintaining a few repositories that are constantly evolving with fresh ideas and improvements. Check them out below!
 
-***Wanna invite me to talk/conference, Please email at [my email](oviedavid77@gmail.com)***
+### 🎤 Let's Connect
 
+I'm open to speaking opportunities and conferences. Feel free to reach out to me via email at **[oviedavid77@gmail.com](mailto:oviedavid77@gmail.com)** for collaboration or inquiries.
 
-<picture width="50px">
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+---
 
+## ⚡ Code is my passion!
 
+Your repository is more than just a showcase of projects—it's a testament to the work you do. Explore my GitHub, where my code is my CV.
 
-## Code is a passion!
+---
 
-### My repo is my CV
+### 📊 Some companies with my fingerprints:
+*You could be the first...*
+
+---
+
+This revised version adds more focus on your growing technical stack, the value you offer, and a bit more structure, making it clear and professional. It highlights your expanding expertise in Rust and C#, while still reflecting your personality and passion.
