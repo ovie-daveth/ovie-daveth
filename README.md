@@ -70,7 +70,8 @@ Your repository is more than just a showcase of projects—it's a testament to t
 ---
 
 ### 📊 Some companies with my fingerprints:
-*You could be the first...*
+PremiumTrust Bank, justdeal Ltd
+*You could be the next...*
 
 ---
 
