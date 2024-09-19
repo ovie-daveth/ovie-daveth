@@ -10,31 +10,34 @@ I began my coding adventure in 2021, and since then, I've been sharpening my ski
 
 ### 🔧 What I Do
 
-I'm skilled in both frontend and backend development, specializing in building scalable, performant web and mobile applications. My frontend expertise lies in **React** and **Next.js**, with **Node.js** handling the backend (though I still dabble with Python and Django). Now, I'm expanding my horizons with **Rust** and **C#** to further strengthen my systems programming and backend capabilities.
+I'm skilled in both frontend and backend development, specializing in building scalable, performant web and mobile applications. My frontend expertise lies in **React** and **Next.js**, with **Node.js** and **C#** handling the backend (though I still dabble with Solidity for web3). Now, I'm expanding my horizons with **Rust** and **C** to further strengthen my systems programming and backend capabilities.
 
 ### 💻 Current Tech Stack
 
 #### 🖥️ Languages:
-- JavaScript (React, Node.js) 
-- Python 
+- HTML | CSS | Tailwind
+- JavaScript 
 - Rust 
-- C#
-- HTML | CSS | JSON 
+- C# (dotnet)
+- Solidity
 
 #### 📚 Frameworks & Libraries:
 - React | Next.js | Angular 
 - Node.js | Express 
 - .NET (C#) 
-- Django
+- Actix Web | Rocket
 
 #### 🗃️ Databases & Storage:
-- MySQL | MongoDB | Firestore 
+- MySQL | Postgresql | MongoDB | Firestore
+
+### ORMS
+- Sqlx | Prisma | Sequelize| Mongoose
 
 #### ☁️ Cloud & Hosting:
-- AWS | Google Cloud | Digital Ocean | Heroku | Vercel | Azure DevOps 
+- AWS | Heroku | Vercel | Azure DevOps 
 
 #### 🔍 API Testing:
-- Postman | Insomnia
+- Postman | ThunderClient
 
 #### 🔧 Version Control:
 - Git | GitHub
@@ -47,15 +50,12 @@ I'm skilled in both frontend and backend development, specializing in building s
 
 ### 💼 Hire Me
 
-Looking for someone to turn ideas into well-architected, functional, and user-friendly applications? I'd love to discuss how I can help you with your next project. Check out my [portfolio](https://my-portfolio-pda3.vercel.app/) to get a glimpse of my work.
+Looking for someone to turn ideas into well-architected, functional, and user-friendly applications? I'd love to discuss how I can help you with your next project. Check out my old [portfolio](https://my-portfolio-pda3.vercel.app/) to get a glimpse of my earliest work, my new website is on the way [Here](https://www.rusti.pro)
 
 ### ✍️ Writing & Tutorials
 
 I occasionally share technical articles, tutorials, and insights on platforms like **Dev.to**, **Hashnode**, **Medium**, and my **personal blog**. Stay tuned for updates on my upcoming **Telegram** channel.
 
-### 🌱 Open Source Contributions
-
-I actively contribute to the open-source community, maintaining a few repositories that are constantly evolving with fresh ideas and improvements. Check them out below!
 
 ### 🎤 Let's Connect
 
@@ -73,6 +73,3 @@ Your repository is more than just a showcase of projects—it's a testament to t
 PremiumTrust Bank, justdeal Ltd
 *You could be the next...*
 
----
-
-This revised version adds more focus on your growing technical stack, the value you offer, and a bit more structure, making it clear and professional. It highlights your expanding expertise in Rust and C#, while still reflecting your personality and passion.
