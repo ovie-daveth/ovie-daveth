@@ -16,9 +16,10 @@ I'm skilled in both frontend and backend development, specializing in building s
 
 #### 🖥️ Languages:
 - HTML | CSS | Tailwind
-- JavaScript 
-- Rust 
+- JavaScript
 - C# (dotnet)
+- Rust 
+- GoLang
 - Solidity
 
 #### 📚 Frameworks & Libraries:
