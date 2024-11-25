@@ -51,7 +51,7 @@ I'm skilled in both frontend and backend development, specializing in building s
 
 ### 💼 Hire Me
 
-Looking for someone to turn ideas into well-architected, functional, and user-friendly applications? I'd love to discuss how I can help you with your next project. Check out my old [portfolio](https://my-portfolio-pda3.vercel.app/) to get a glimpse of my earliest work, my new website is on the way [Here](https://www.rusti.pro)
+Looking for someone to turn ideas into well-architected, functional, and user-friendly applications? I'd love to discuss how I can help you with your next project. Portfolio on the way
 
 ### ✍️ Writing & Tutorials
 
