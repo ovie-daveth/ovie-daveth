@@ -20,7 +20,6 @@ I'm skilled in both frontend and backend development, specializing in building s
 - C# (dotnet)
 - Rust 
 - GoLang
-- Solidity
 
 #### 📚 Frameworks & Libraries:
 - React | Next.js | Angular 
