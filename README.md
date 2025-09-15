@@ -87,8 +87,8 @@ Looking for someone to turn ideas into well-architected, functional, and user-fr
 
 ### 📊 Stats & Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oviecodes&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oviecodes&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovie-daveth&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovie-daveth&layout=compact&theme=radical)  
 
 ---
 
@@ -96,7 +96,7 @@ Looking for someone to turn ideas into well-architected, functional, and user-fr
 
 [![npm](https://img.shields.io/npm/v/dsn-cli?color=blue&label=dsn-cli&logo=npm)](https://www.npmjs.com/package/dsn-cli)
 [![npm downloads](https://img.shields.io/npm/dw/dsn-cli?logo=npm)](https://www.npmjs.com/package/dsn-cli)
-[![GitHub stars](https://img.shields.io/github/stars/oviecodes/dsn-cli?style=social)](https://github.com/oviecodes/dsn-cli)
+[![GitHub stars](https://img.shields.io/github/stars/ovie-daveth/dsn-cli?style=social)](https://github.com/oviecodes/dsn-cli)
 
 🚀 **dsn-cli** is an offline-first package & snippets manager with **1300+ weekly downloads**, built with **Node.js + TypeScript**.  
 - Manage and reuse code snippets seamlessly  
