@@ -2,74 +2,119 @@
 
 ### 🚀 Who am I?
 
-I'm a passionate software developer with a relentless drive to build impactful solutions. Since diving into the world of programming, I've never looked back. Every line of code I write is part of a journey to deepen my understanding and perfect my craft. My focus is on building projects that solve real-world problems and staying dedicated until the solution is just right.
+I'm a passionate **Fullstack Software Developer** driven to build impactful, scalable solutions. Since 2021, I've been writing code that solves real-world problems while continuously sharpening my craft. My mission is simple: to transform ideas into robust products that empower people and businesses.
 
-### 🎓 Lifelong Learner | Self-Taught Developer
+Faith in Christ grounds me, perseverance defines me, and innovation excites me.
 
-I began my coding adventure in 2021, and since then, I've been sharpening my skills one project at a time. Starting with Python, I've since embraced full-stack development, and my expertise has grown to include multiple languages and frameworks. I strongly believe in continuous learning—after all, the journey in tech never ends! And yes, I'm also a believer in Christ, and my faith grounds me as I pursue my goals.
+---
+
+### 💡 Highlight Project
+
+📦 **[dsn\_cli](https://www.npmjs.com/package/dsn-cli)** – An **offline-first package & snippets manager** with **1300+ weekly downloads**.
+
+* Built with **Node.js + TypeScript**
+* Helps developers **organize, manage, and reuse code snippets efficiently**
+* Gaining adoption across the developer community
+
+---
 
 ### 🔧 What I Do
 
-I'm skilled in both frontend and backend development, specializing in building scalable, performant web and mobile applications. My frontend expertise lies in **React** and **Next.js**, with **Node.js** and **C#** handling the backend (though I still dabble with Solidity for web3). Now, I'm expanding my horizons with **Rust** and **C** to further strengthen my systems programming and backend capabilities.
+I specialize in both frontend and backend development:
 
-### 💻 Current Tech Stack
+* **Frontend**: React, Next.js, Angular (scalable UI, performant apps)
+* **Backend**: Node.js, C#, JAVA (robust APIs & systems programming)
+* **Cloud & DevOps**: AWS, Vercel, Azure DevOps (deployments & scaling)
+* **Databases**: PostgreSQL, MySQL, MongoDB, Firestore
 
-#### 🖥️ Languages:
-- HTML | CSS | Tailwind
-- JavaScript
-- C# (dotnet)
-- Rust 
-- GoLang
+---
 
-#### 📚 Frameworks & Libraries:
-- React | Next.js | Angular 
-- Node.js | Express 
-- .NET (C#) 
-- Actix Web | Rocket
+### 💻 Tech Stack
 
-#### 🗃️ Databases & Storage:
-- MySQL | Postgresql | MongoDB | Firestore
+**Languages**
 
-### ORMS
-- Sqlx | Prisma | Sequelize| Mongoose
+* JavaScript | TypeScript | JAVA | C# | HTML | CSS | Tailwind
 
-#### ☁️ Cloud & Hosting:
-- AWS | Heroku | Vercel | Azure DevOps 
+**Frameworks & Libraries**
 
-#### 🔍 API Testing:
-- Postman | ThunderClient
+* React | Next.js | Angular
+* Node.js | Express | .NET
+* Springboot
 
-#### 🔧 Version Control:
-- Git | GitHub
+**Databases & ORMs**
 
-#### 🛠️ Tools & Editors:
-- VSCode | Bash | Rust Toolchain | .NET IDEs
+* PostgreSQL | MySQL | MongoDB | Firestore
+* Prisma | Sequelize | Mongoose | Sqlx
 
-#### 🎨 Design Systems:
-- Tailwind CSS
+**Cloud & Hosting**
 
-### 💼 Hire Me
+* AWS | Vercel | Heroku | Azure DevOps
 
-Looking for someone to turn ideas into well-architected, functional, and user-friendly applications? I'd love to discuss how I can help you with your next project. Portfolio on the way
+**Tools**
+
+* Git | GitHub | VSCode | Bash | Postman | ThunderClient
+
+---
+
+### 📊 Experience & Collaborations
+
+* **PremiumTrust Bank** – Built fintech solutions as a Junior Fullstack Developer
+* **JustDeal Ltd** – Contributed to scalable application development
+
+💡 *Your company could be the next with my fingerprints on its success.*
+
+---
 
 ### ✍️ Writing & Tutorials
 
-I occasionally share technical articles, tutorials, and insights on platforms like **Dev.to**, **Hashnode**, **Medium**, and my **personal blog**. Stay tuned for updates on my upcoming **Telegram** channel.
+I share insights and tutorials on:
 
-
-### 🎤 Let's Connect
-
-I'm open to speaking opportunities and conferences. Feel free to reach out to me via email at **[oviedavid77@gmail.com](mailto:oviedavid77@gmail.com)** for collaboration or inquiries.
+* **Dev.to**
+* **Hashnode**
+* **Medium**
+* My upcoming **personal blog & Telegram channel**
 
 ---
+
+### 💼 Hire Me
+
+Looking for someone to turn ideas into well-architected, functional, and user-friendly applications? Let’s talk.
+
+📩 Email: **[oviedavid77@gmail.com](mailto:oviedavid77@gmail.com)**
+
+---
+
+### 📊 Stats & Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oviecodes&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oviecodes&layout=compact&theme=radical)  
+
+---
+
+### 📦 Featured Project: dsn_cli
+
+[![npm](https://img.shields.io/npm/v/dsn-cli?color=blue&label=dsn-cli&logo=npm)](https://www.npmjs.com/package/dsn-cli)
+[![npm downloads](https://img.shields.io/npm/dw/dsn-cli?logo=npm)](https://www.npmjs.com/package/dsn-cli)
+[![GitHub stars](https://img.shields.io/github/stars/oviecodes/dsn-cli?style=social)](https://github.com/oviecodes/dsn-cli)
+
+🚀 **dsn-cli** is an offline-first package & snippets manager with **1300+ weekly downloads**, built with **Node.js + TypeScript**.  
+- Manage and reuse code snippets seamlessly  
+- Built for speed, simplicity, and offline-first workflows  
+
+---
+
+### 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omokefe-ovie/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/ovie_omokefe)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://app.daily.dev/daveton)  
+
+---
+
 
 ## ⚡ Code is my passion!
 
-Your repository is more than just a showcase of projects—it's a testament to the work you do. Explore my GitHub, where my code is my CV.
+Explore my repositories—because my code is my CV.
 
----
 
-### 📊 Some companies with my fingerprints:
-PremiumTrust Bank, justdeal Ltd
-*You could be the next...*
-
+Do you want me to create those **badges and GitHub stats cards** for your profile?
