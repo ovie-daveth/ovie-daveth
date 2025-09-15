@@ -14,6 +14,7 @@ Faith in Christ grounds me, perseverance defines me, and innovation excites me.
 
 * Built with **Node.js + TypeScript**
 * Helps developers **organize, manage, and reuse code snippets efficiently**
+* Helps developers **manage, install, update, scan, and verify Node.js packages offline and online efficiently**
 * Gaining adoption across the developer community
 
 ---
